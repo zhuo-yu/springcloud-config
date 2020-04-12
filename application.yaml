@@ -3,6 +3,7 @@ spring:
   application:
     name: server-config-dev  
     
+---
 spring:
   profiles: test  #测试环境
   application:
